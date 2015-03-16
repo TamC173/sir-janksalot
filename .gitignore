@@ -34,6 +34,8 @@ $RECYCLE.BIN/
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+*.csproj
+*.sln
 
 # Directories potentially created on remote AFP share
 .AppleDB
@@ -41,3 +43,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+Library
