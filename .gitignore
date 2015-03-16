@@ -36,6 +36,7 @@ $RECYCLE.BIN/
 .Trashes
 *.csproj
 *.sln
+.unityproj
 
 # Directories potentially created on remote AFP share
 .AppleDB
