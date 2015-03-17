@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31a6724f88c1e0847bc24815fd168e5e
+timeCreated: 1426476669
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - neutral: {fileID: 100010, guid: 86a322fdacff79a48b988cd5f75a88ca, type: 3}
+  - evilcloud: {instanceID: 0}
+  - goodcloud: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
