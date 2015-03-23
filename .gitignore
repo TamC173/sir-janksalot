@@ -36,7 +36,7 @@ $RECYCLE.BIN/
 .Trashes
 *.csproj
 *.sln
-.unityproj
+*.unityproj
 
 # Directories potentially created on remote AFP share
 .AppleDB
@@ -45,3 +45,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 Library
+Temp
+.userprefs
